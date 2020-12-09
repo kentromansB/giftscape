@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107779319800",
+    "project_id": "giftscape-fb3b3",
+    "storage_bucket": "giftscape-fb3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107779319800:android:326cb42ccfc02b0915980d",
+        "android_client_info": {
+          "package_name": "com.example.giftscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107779319800-nn3oq8o0pb9tf19nrt0mkov55tvnf55i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giftscape",
+            "certificate_hash": "6560c37462a6dff5fd630ab7413869ed757111d4"
+          }
+        },
+        {
+          "client_id": "107779319800-63o1ok2ilvvono12pj7uovf42epadjs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQYGtiwJuX-FiH_Ce4VwzW_RX0ep8R9x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107779319800-63o1ok2ilvvono12pj7uovf42epadjs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
